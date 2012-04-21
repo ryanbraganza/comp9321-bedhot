@@ -1,0 +1,9 @@
+drop table if exists tbl_purchases cascade;
+drop table if exists tbl_cartItems cascade;
+drop table if exists tbl_carts cascade;
+drop table if exists tbl_hotelReviews cascade;
+drop table if exists tbl_hotels cascade;
+drop table if exists tbl_deals cascade;
+drop table if exists tbl_providers cascade;
+drop table if exists tbl_customers cascade;
+drop table if exists tbl_users cascade;
